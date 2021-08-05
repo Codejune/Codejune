@@ -1,4 +1,9 @@
-[![codejune's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejune)](https://github.com/codejune/github-readme-stats)
+<a href="https://github.com/Codejune/Codejune">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Codejune&show_icons=true&theme=gradient&&count_private=true" />
+</a>
+<a href="https://github.com/Codejune?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codejune&langs_count=8" />
+</a>
 
 <!--
 **Codejune/Codejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
