@@ -4,7 +4,7 @@
   </a>
   <br/>
   <a href="https://github.com/Codejune?tab=repositories">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codejune&langs_count=8" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codejune&layout=compact" />
   </a>
 </div>
 
