@@ -1,4 +1,4 @@
-### Hi there 👋
+[![codejune's GitHub stats](https://github-readme-stats.vercel.app/api?username=codejune)](https://github.com/codejune/github-readme-stats)
 
 <!--
 **Codejune/Codejune** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
